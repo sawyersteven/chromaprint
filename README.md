@@ -1,3 +1,5 @@
+![Logo](https://raw.githubusercontent.com/sawyersteven/chromaprint/master/img/Logo_wide.png)
+
 # chromaprint
 Python module to facilitate effortless color terminal output.
 
